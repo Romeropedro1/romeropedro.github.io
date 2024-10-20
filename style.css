@@ -82,7 +82,7 @@ header nav.menu-desktop ul li {
 /* ESTILO DO MENU MOBILE */
 
 .btn-abrir-menu{
-    display: none;
+    display: block;
 }
 
 .btn-abrir-menu i{
